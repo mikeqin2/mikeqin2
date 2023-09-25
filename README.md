@@ -4,6 +4,8 @@ My name is Mike Qin. I am a MS student in Computer Science at UIUC.
 
 A majority of my work is currently being done in a private repo at a library for task and motion planning, PPL. An open-source version of the library can be found [here](https://gitlab.engr.illinois.edu/parasol-group/parasol/open-ppl).
 
+Some of my past work can be found at [CyberGIS Center](https://github.com/cybergis) where I work as a student intern on geospatial data science.
+
 
 <!--
 **mikeqin2/mikeqin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
